@@ -23,22 +23,27 @@ Download Dataset: Obtain the Northwind Traders dataset from Kaggle using the app
 3. Data Loading: Load the raw data into the database using appropriate techniques.
 
 ### Data Analysis and Visualization with Power BI
-1. Data Connection: Establish a connection between Power BI Desktop and the database.
 
-2. Data Transformation: Clean and transform the data in Power Query:
-2.1. Handle missing values.
-2.2. Remove duplicates.
-2.3. Format data types (e.g., date, currency).
-2.4. Create calculated columns and measures.
+##### Data Connection: 
+Establish a connection between Power BI Desktop and the database.
 
-3. Data Modeling: Create a data model with appropriate relationships between tables to enable efficient analysis.
+##### Data Transformation: 
+Clean and transform the data in Power Query:
+1. Handle missing values.
+2. Remove duplicates.
+3. Format data types (e.g., date, currency).
+4. Create calculated columns and measures.
 
-4. Dashboard Creation: Design an interactive dashboard to visualize key insights:
-4.1. Sales Analysis
-4.2. Customer Analysis
-4.3. Product Analysis
-4.4. Shipping Analysis
-4.5. Employee Performance Analysis.
+#####  Data Modeling: 
+Create a data model with appropriate relationships between tables to enable efficient analysis.
+
+##### Dashboard Creation: 
+Design an interactive dashboard to visualize key insights:
+1. Sales Analysis
+2. Customer Analysis
+3. Product Analysis
+4. Shipping Analysis
+5. Employee Performance Analysis.
 
 
 ## Tools used
@@ -53,7 +58,7 @@ Download Dataset: Obtain the Northwind Traders dataset from Kaggle using the app
 4. Database Management
 5. Business Intelligence Tools.
 
-### Dashboard Images
+### PowerBI Dashboard Images
 
 ![ER Diagram](https://github.com/Sakthipavithran16/Northwind-Traders-Analysis/blob/main/Dashboard_Images/ER_diagram.JPG)
 ![Sales Trend & Product Analysis](https://github.com/Sakthipavithran16/Northwind-Traders-Analysis/blob/main/Dashboard_Images/Product.JPG)
