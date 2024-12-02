@@ -24,20 +24,20 @@ Download Dataset: Obtain the Northwind Traders dataset from Kaggle using the app
 
 ### Data Analysis and Visualization with Power BI
 
-##### Data Connection: 
+#### Data Connection: 
 Establish a connection between Power BI Desktop and the database.
 
-##### Data Transformation: 
+#### Data Transformation: 
 Clean and transform the data in Power Query:
 1. Handle missing values.
 2. Remove duplicates.
 3. Format data types (e.g., date, currency).
 4. Create calculated columns and measures.
 
-#####  Data Modeling: 
+####  Data Modeling: 
 Create a data model with appropriate relationships between tables to enable efficient analysis.
 
-##### Dashboard Creation: 
+#### Dashboard Creation: 
 Design an interactive dashboard to visualize key insights:
 1. Sales Analysis
 2. Customer Analysis
