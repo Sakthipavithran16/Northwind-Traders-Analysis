@@ -69,5 +69,5 @@ Design an interactive dashboard to visualize key insights:
 
 
 ## Insights and Recommendations
-The Insights and Recommendations for Walmart Sales Analysis (https://github.com/Sakthipavithran16/Northwind-Traders-Analysis/blob/main/Northwind%20traders%20Analysis.pdf)
+The Insights and Recommendations for Northwind Traders Analysis (https://github.com/Sakthipavithran16/Northwind-Traders-Analysis/blob/main/Northwind%20traders%20Analysis.pdf)
 
